@@ -1,1 +1,15 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gestionapro.app",
+      "sha256_cert_fingerprints": [
+        "8C:14:37:58:79:19:D5:53:82:8C:B0:23:22:17:E8:21:FF:C8:9B:F5:4E:64:01:01:CC:EA:1C:F5:C8:EE:DD:89",
+        "AD:F7:79:59:6D:F2:98:01:F1:6A:02:09:64:B8:62:CC:EA:FE:9E:F9:1C:E3:99:06:79:E7:13:48:40:57:7C:30",
+        "E1:F2:54:32:EA:2B:AA:4A:30:6B:92:90:1F:AE:C2:8F:2C:F8:30:13:AE:2E:B4:12:83:E5:52:DB:F5:A6:30:A6"
+      ]
+    }
+  }
+]
 
